@@ -18,7 +18,7 @@ Module_16
 
 ##Vine_Table
 
-![Vine_Table](./Vine_Table.PNG)
+![Vine_Table](./Vine_table.PNG)
 
 
 ## Paid 5 Star rating vs Unpaid 5 star rating
